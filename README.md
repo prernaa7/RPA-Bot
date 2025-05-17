@@ -16,3 +16,7 @@ The bot automates the process of filling out a Google Form by:
 - UiPath Studio
 - Google Forms
 - Microsoft Excel
+
+## Demo Form
+This is the sample Google Form used for automation:  
+https://docs.google.com/forms/d/e/1FAIpQLSfgXcK-941XVF85sjo8pRzf-zyxGXuJOv5EwjZKbP27PSKMYg/viewform
